@@ -1,5 +1,4 @@
-@'
-Administrador
+﻿Administrador
 01/06/2026
 Bem-vindo ao MU Mundi!
 
@@ -8,4 +7,3 @@ Estamos em fase de testes intensivos.
 - Evento de Inauguração: Bônus de XP Dobro ativo!
 - Torneio de Guildas: Inscrições abertas em breve.
 - Reportar bugs: Use o canal #bugs no Discord.
-'@ | Set-Content -Path E:\MuUpdates\news.txt -Encoding UTF8
