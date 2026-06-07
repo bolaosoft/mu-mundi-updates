@@ -1,6 +1,6 @@
 ﻿{
-  "version": "2026.06.04.2332",
-  "gerado": "04/06/2026 23:32",
+  "version": "2026.06.07.1408",
+  "gerado": "07/06/2026 14:08",
   "arquivos": [
     {
       "path": "ah.emu",
@@ -109,8 +109,8 @@
     },
     {
       "path": "Logs/Error.dmp",
-      "md5": "d41d8cd98f00b204e9800998ecf8427e",
-      "size": 0
+      "md5": "e6de45e064a7653fee8cb45d135513b8",
+      "size": 27290
     },
     {
       "path": "ScreenShots/Screen(05_29-18-21)-0000.jpg",
@@ -73733,5 +73733,11 @@
       "size": 19138
     }
   ],
-  "arquivos_alterados": []
+  "arquivos_alterados": [
+    {
+      "path": "Logs/Error.dmp",
+      "md5": "e6de45e064a7653fee8cb45d135513b8",
+      "size": 27290
+    }
+  ]
 }
