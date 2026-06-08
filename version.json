@@ -1,6 +1,6 @@
 ﻿{
-  "version": "2026.06.07.1408",
-  "gerado": "07/06/2026 14:08",
+  "version": "2026.06.08.0726",
+  "gerado": "08/06/2026 07:26",
   "arquivos": [
     {
       "path": "ah.emu",
@@ -73733,11 +73733,5 @@
       "size": 19138
     }
   ],
-  "arquivos_alterados": [
-    {
-      "path": "Logs/Error.dmp",
-      "md5": "e6de45e064a7653fee8cb45d135513b8",
-      "size": 27290
-    }
-  ]
+  "arquivos_alterados": []
 }
